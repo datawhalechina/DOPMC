@@ -31,3 +31,8 @@ Datawhale开源项目管理委员会（Datawhale Open-source Project Management 
 说明：各个开源项目的贡献者即为Contributor；
 评选规则：为开源项目提交Pull request并被Merge；
 
+## 关注我们
+<div align=center>
+<p>扫描下方二维码关注公众号：Datawhale</p>
+<img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
+</div>

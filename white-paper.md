@@ -28,7 +28,7 @@ step5：开源项目支持小组（参见附录）辅助项目负责人启动项
 
 ### 3.3 内容规范
 - 文档类的项目统一采用Docsify/Sphinx进行在线展示，同时也需要在项目完成后同步发行PDF版本（推荐使用 LaTeX 进行排版）；
-- 项目根目录下的README.md里必须包含以下内容：
+- 项目根目录下的README.md里必须包含以下内容（模板参见附录）：
   - 项目负责人的联系方式；
   - 项目Committers的名单；
   - Datawhale的外宣信息；
@@ -42,6 +42,9 @@ step5：开源项目支持小组（参见附录）辅助项目负责人启动项
 - Committer在Push之前必须经过项目负责人Review；
 
 ## 附录
+### README.md模板
+https://github.com/datawhalechina/DOPMC/blob/main/README_example.md
+
 ### 开源项目支持小组
 为各个开源项目团队提供各个方面的资源支持，包括但不限于以下工作：
 - 辅助项目负责人进行立项；
