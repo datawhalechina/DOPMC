@@ -10,7 +10,9 @@ Datawhale开源项目管理委员会（Datawhale Open-source Project Management 
 ## DOPMC成员体系：
 ### DOPMC Member
 说明：DOPMC成员，其直接参与DOPMC的各项事宜；
+
 评选规则：所负责的项目状态为【已完成】的项目负责人；
+
 名单：
 | 姓名 | 职责 | 简介 |
 | :----| :---- | :---- |
@@ -25,10 +27,12 @@ Datawhale开源项目管理委员会（Datawhale Open-source Project Management 
 
 ### Committer
 说明：各个开源项目的核心成员即为Committer，其拥有所参与的开源项目的Push权限；
+
 评选规则：由DOPMC Member和Committers匿名投票产生；
 
 ### Contributor
 说明：各个开源项目的贡献者即为Contributor；
+
 评选规则：为开源项目提交Pull request并被Merge；
 
 ## 关注我们
