@@ -7,9 +7,11 @@ Datawhale开源项目管理委员会（Datawhale Open-source Project Management 
 
 ## 为 Datawhale 做出贡献
 ### 想法
-如果你想发起新的项目或者想做一些有趣的事欢迎提交 PR 来详细描述你要做的事。
+如果你想发起新的项目或者想做一些有趣的事欢迎提交 PR 来详细描述你要做的事，具体操作方式可以在[贡献指南/PR](./CONTRIBUTING.md)中找到。
 ### 反馈
-如果你对 Datawhale 目前现状有任何疑惑或者建议欢迎用 ISSUE 的方式进行反馈。
+如果你对 Datawhale 目前现状有任何疑惑或者建议欢迎用 ISSUE 的方式进行反馈，具体操作方式可以在[贡献指南/ISSUE](./CONTRIBUTING.md)中找到。
+
+如果你暂时还没有什么想法欢迎浏览我们的 [ISSUE 列表](https://github.com/datawhalechina/DOPMC/issues)看看有哪些是你感兴趣的😊，如果你有任何新的想法，不要担心大胆评论就好。
 
 ## DOPMC 成员体系：
 关于 Datawhale 社区成员体系详见：[Roles](./ROLES.md)
