@@ -7,7 +7,7 @@
 如果你有一些新的想法或者想要做些有趣的事情，欢迎通过 PR 的方式与我们进行沟通，如果在具体提交 PR 之前你需要完成下面的几个步骤：
 
 1. 首先需要在 [DOPMC](https://github.com/datawhalechina/DOPMC) 项目中创建 Issue 进行初步讨论，如果提出的项目比较大也可以拆分为多个 ISSUE 进行描述，例如[构建开放的沟通渠道](https://github.com/datawhalechina/DOPMC/issues/1)。
-2. 发起 ISSUE 后可以通过 PR 提交 proposal 来详细描述立项的目的，内容以及大概时间节点，例如[]()
+2. 发起 ISSUE 后可以通过 PR 提交 proposal 来详细描述立项的目的，内容以及大概时间节点，并链接到对应的 issue 上，例如[完善立项的开放流程](https://github.com/datawhalechina/DOPMC/pull/3)
 3. 提交的 PR 待 review 后会有 DOPMC 成员投票决定是否 merge 到项目中
 4. 待 PR merge 后需要将对应的 ISSUE 进行完善，并公开项目负责人与项目地址等信息
 
