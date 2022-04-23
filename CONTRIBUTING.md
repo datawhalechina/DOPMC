@@ -4,7 +4,7 @@
 *如果你对 Github 的操作不太熟悉，可以查看[Github 极简操作指南](./GITHUB.md)，仅需30秒即可创建属于你的第一个 ISSUE*
 
 ## PR
-如果你有一些新的想法或者想要做些有趣的事情，欢迎通过 PR 的方式与我们进行沟通，如果在具体提交 PR 之前你需要完成下面的几个步骤：
+如果你想发起新的项目或者想要做些有趣的事情，欢迎通过 PR 的方式参与到 Datawhale 中，具体操作方式如下：
 
 1. 首先需要在 [DOPMC](https://github.com/datawhalechina/DOPMC) 项目中创建 ISSUE 进行初步讨论，如果提出的项目比较大也可以拆分为多个 ISSUE 进行描述，例如[构建开放的沟通渠道](https://github.com/datawhalechina/DOPMC/issues/1)。
 2. 发起 ISSUE 后可以通过 PR 在 Proposals 目录下提交 proposal 文件来详细描述立项的目的，内容以及大概时间节点，并链接到对应的 issue 上，例如[完善立项的开放流程](https://github.com/datawhalechina/DOPMC/pull/3)
