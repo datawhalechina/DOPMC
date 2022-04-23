@@ -5,7 +5,7 @@ Datawhale开源项目管理委员会（Datawhale Open-source Project Management 
 ## 我们推出的内容
 - [Datawhale人工智能培养方案](https://datawhale.feishu.cn/docs/doccn0AOicI3LJ8RwhY0cuDPSOc)
 
-## 参与 Datawhale
+## 为 Datawhale 做出贡献
 ### 想法
 如果你想发起新的项目或者想做一些有趣的事欢迎提交 PR 来详细描述你要做的事，具体操作方式可以在[贡献指南/PR](./CONTRIBUTING.md)中找到。
 ### 反馈
