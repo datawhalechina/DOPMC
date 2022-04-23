@@ -4,6 +4,9 @@
 - 项目内容目录
 - ....
 
+## 参与贡献
+如果你对本项目感兴趣想要参与进来，或者发现了一些问题，欢迎在 [Issue]() 中进行交流。如果你对 Datawhale 很感兴趣并想要发起一个新的项目，欢迎查看 [Datawhale 贡献指南](https://github.com/datawhalechina/DOPMC#%E4%B8%BA-datawhale-%E5%81%9A%E5%87%BA%E8%B4%A1%E7%8C%AE)。
+
 ## 贡献者名单
 | 姓名 | 职责 | 简介 |
 | :----| :---- | :---- |
