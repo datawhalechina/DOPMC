@@ -13,6 +13,8 @@ Datawhale开源项目管理委员会（Datawhale Open-source Project Management 
 
 如果你暂时还没有什么想法欢迎浏览我们的 [ISSUE 列表](https://github.com/datawhalechina/DOPMC/issues)看看有哪些是你感兴趣的😊，如果你有任何新的想法，不要担心大胆评论就好。
 
+*ps: 含有 [`help wanted`](https://github.com/datawhalechina/DOPMC/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) 标签的 issue 更容易参与哦💡*
+
 ## DOPMC 成员体系：
 关于 Datawhale 社区成员体系详见：[Roles](./ROLES.md)
 
