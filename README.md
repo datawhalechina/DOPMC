@@ -11,7 +11,7 @@ Datawhale开源项目管理委员会（Datawhale Open-source Project Management 
 ### 反馈
 如果你对 Datawhale 目前现状有任何疑惑或者建议欢迎用 ISSUE 的方式进行反馈，具体操作方式可以在[贡献指南/ISSUE](./CONTRIBUTING.md)中找到。
 
-如果你暂时还没有什么想法欢迎浏览我们的 [ISSUE 列表](https://github.com/datawhalechina/DOPMC/issues)看看有哪些是你感兴趣的😊，如果你有任何新的想法，不要担心大胆评论就好。
+如果你暂时还没有什么想法欢迎浏览我们的 [ISSUE 列表](https://github.com/datawhalechina/DOPMC/issues)看看有哪些是你感兴趣的😊，或者通过[看板](https://github.com/datawhalechina/DOPMC/projects/1?fullscreen=true)更直观的看到各种事项的进展状态，如果你有任何新的想法，不要担心大胆评论就好。
 
 *ps: 含有 [`help wanted`](https://github.com/datawhalechina/DOPMC/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) 标签的 issue 更容易参与哦💡*
 
