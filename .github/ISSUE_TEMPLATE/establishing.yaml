@@ -20,33 +20,35 @@ body:
   attributes:
     label: 背景
     description: |
-      详细描述一下要立项这个项目的背景信息:
-    placeholder: |
-      这个项目事关于X
+      详细描述一下要立项这个项目的背景信息
     render: markdown
   validations:
     required: true
 - type: textarea
   attributes:
-    label: 目标
+    label: 简介
     description: 描述一下该项目想要达成的目标
-    placeholder: |
-      When I do <X>, <Y> happens and I see the error message attached below:
-      ```...```
+    render: markdown
   validations:
     required: true
 - type: textarea
   attributes:
     label: 规划
     description: 描述一下项目要做的大致规划是怎么样的
-    placeholder: When I do <X>, <Z> should happen instead.
+    render: markdown
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: 项目负责人
+    render: markdown
   validations:
     required: true
 - type: textarea
   attributes:
     label: 其他信息?
     description: |
-      Links? References? Anything that will give us more context about the issue you are encountering!
       相关链接或者其他与该项目相关的信息，或者任何其他的背景资料信息
+    render: markdown
   validations:
     required: false
