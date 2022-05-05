@@ -17,6 +17,7 @@ body:
     - label: "I have searched the existing issues"
       required: true
 - type: textarea
+  id: field1
   attributes:
     label: "背景"
     description: "详细描述一下要立项这个项目的背景信息"
@@ -24,6 +25,7 @@ body:
   validations:
     required: true
 - type: textarea
+  id: field2
   attributes:
     label: "简介"
     description: "描述一下该项目想要达成的目标"
@@ -31,6 +33,7 @@ body:
   validations:
     required: true
 - type: textarea
+  id: field3
   attributes:
     label: "规划"
     description: "描述一下项目要做的大致规划是怎么样的"
@@ -38,12 +41,14 @@ body:
   validations:
     required: true
 - type: textarea
+  id: field4
   attributes:
     label: "项目负责人"
     render: markdown
   validations:
     required: true
 - type: textarea
+  id: field5
   attributes:
     label: "其他信息?"
     description: "相关链接或者其他与该项目相关的信息，或者任何其他的背景资料信息"
