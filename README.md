@@ -1,11 +1,12 @@
 # DOPMC
 Datawhale开源项目管理委员会（Datawhale Open-source Project Management Committee，简称DOPMC）
-<center><img src="./images/jiagou.png"></center>
 
-## 我们推出的内容
+## Datawhale 社区推出的内容
 - [Datawhale人工智能培养方案](https://datawhale.feishu.cn/docs/doccn0AOicI3LJ8RwhY0cuDPSOc)
 
 ## 为 Datawhale 做出贡献
+感谢你对 Datawhale 的贡献，参与贡献的方式有很多，我们感谢所有的贡献💖，在参与贡献之前我们希望你已经了解了 [Datawhale 社区贡献手册](./CONTRIBUTING.md)。
+
 *如果你对 Github 的操作不太熟悉，可以查看[Github 极简操作指南](./GITHUB.md)，仅需30秒即可创建属于你的第一个 ISSUE✨*
 ### 立项🔥
 如果你想发起新的项目或者想做一些有趣的事欢迎提交 ISSUE 来详细描述你要做的事，发起立项需要在 [DOPMC](https://github.com/datawhalechina/DOPMC) 项目的中创建 ISSUE 进行讨论，打开[创建 ISSUE](https://github.com/datawhalechina/DOPMC/issues/new/choose) 页面后点击立项按钮，根据模板填写项目的相关信息

@@ -1,4 +1,6 @@
-### DOPMC Member
+*ps：新版本角色说明正在计划中*
+
+## DOPMC Member
 说明：DOPMC成员，其直接参与DOPMC的各项事宜；
 
 评选规则：所负责的项目状态为【已完成】的项目负责人；
@@ -14,6 +16,14 @@
 | 杨剑砺 | DOPMC Member | [fantastic-matplotlib](https://github.com/datawhalechina/fantastic-matplotlib)项目负责人 |
 | 陈安东 | DOPMC Member | [hands-on-data-analysis](https://github.com/datawhalechina/hands-on-data-analysis)项目负责人 |
 | 王复振 | DOPMC Member | [wonderful-sql](https://github.com/datawhalechina/wonderful-sql)项目负责人 |
+
+### 职责
+为各个开源项目团队提供各个方面的资源支持，包括但不限于以下工作：
+- 辅助项目负责人进行立项；
+- 辅助项目负责人招募成员；
+- 为项目负责人提供专业建议；
+- 对项目各个阶段进行风险把控；
+- 定期跟进开源项目的进度；
 
 ### Committer
 说明：各个开源项目的核心成员即为Committer，其拥有所参与的开源项目的Push权限；
