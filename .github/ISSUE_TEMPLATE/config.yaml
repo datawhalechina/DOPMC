@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Communication
-    url: https://github.com/datawhalechina/DOPMC/discussions
-    about: 在这里参与 Datawhale 社区讨论
+  - name: Ask a question
+    url: https://github.com/milvus-io/milvus/discussions
+    about: Ask questions and discuss with other community members
