@@ -44,7 +44,7 @@ body:
   id: field4
   attributes:
     label: "项目负责人"
-    placeholder: [DatawhaleChina](https://github.com/DatawhaleChina) or Datawhale@DatawhaleChina
+    placeholder: "[DatawhaleChina](https://github.com/DatawhaleChina) or Datawhale@DatawhaleChina"
     render: markdown
   validations:
     required: true
