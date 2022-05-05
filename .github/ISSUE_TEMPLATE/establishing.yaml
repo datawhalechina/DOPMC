@@ -1,5 +1,5 @@
-name: 💡 立项
-description: 在 Datawhale 社区发起一个新的项目
+name: "💡 立项"
+description: "在 Datawhale 社区发起一个新的项目"
 title: "[New]: "
 labels: [new-project, needs-triage]
 assignees: 
