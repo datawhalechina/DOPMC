@@ -1,5 +1,5 @@
-name: "💡 立项"
-description: "在 Datawhale 社区发起一个新的项目"
+name: 💡 立项
+description: 在 Datawhale 社区发起一个新的项目
 title: "[New]: "
 labels: [new-project, needs-triage]
 assignees: 
@@ -14,20 +14,20 @@ body:
     label: "Datawhale 社区中是否已经存在了相似的项目?"
     description: "请搜索一下社区是否存在类似项目"
     options:
-    - label: "I have searched the existing issues"
+    - label: "I have searched the existing projects"
       required: true
 - type: textarea
   id: field1
   attributes:
-    label: "背景"
-    description: "详细描述一下要立项这个项目的背景信息"
+    label: "背景与简介"
+    description: "详细描述一下项目的背景信息并对项目做介绍"
     render: markdown
   validations:
     required: true
 - type: textarea
   id: field2
   attributes:
-    label: "简介"
+    label: "目标"
     description: "描述一下该项目想要达成的目标"
     render: markdown
   validations:
@@ -36,7 +36,7 @@ body:
   id: field3
   attributes:
     label: "规划"
-    description: "描述一下项目要做的大致规划是怎么样的"
+    description: "描述一下项目要做的大致规划是怎么样的？是否有初步的 Roadmap"
     render: markdown
   validations:
     required: true
@@ -44,6 +44,7 @@ body:
   id: field4
   attributes:
     label: "项目负责人"
+    placeholder: [DatawhaleChina](https://github.com/DatawhaleChina) or Datawhale@DatawhaleChina
     render: markdown
   validations:
     required: true

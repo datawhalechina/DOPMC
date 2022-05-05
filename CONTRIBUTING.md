@@ -18,7 +18,7 @@ Datawhale 社区开源项目会经历五个流程，如下图所示：
 1. 首先需要在 [DOPMC](https://github.com/datawhalechina/DOPMC) 项目的中创建 ISSUE 进行初步讨论，打开[创建 ISSUE](https://github.com/datawhalechina/DOPMC/issues/new/choose) 页面后点击立项按钮，根据模板填写项目的相关信息，提交的 ISSUE 会随机分配给三分之一的 [DOPMC 成员](./ROLES.md)；
 2. 在 ISSUE 创建的两周内，[DOPMC 成员](./ROLES.md)会公开讨论该立项是否符合 Datawhale 社区贡献手册，并会在 ISSUE 下通过评论进行投票，同意会评论 `/LGTM`，否则需要提出相应意见或建议；
 3. 若投同意票人数超过 DOMPC 成员的三分之一则该项目达到立项标准，DOPMC 成员会将其移动到 [Datawhale Project](https://github.com/datawhalechina/DOPMC/projects/1?fullscreen=true) 看板对应的筹划阶段；
-4. 立项成功后 DOPMC 成员会在 Datawhale 官方 GitHub Organization 下为其创建 Team 和 Repository；
+4. 立项成功后 DOPMC 成员会在 Datawhale 官方 GitHub Organization 下为其创建 Team 和 Repository，并完善 ISSUE 信息；
 5. 若没有得到 DOPMC 成员半数投票，则需要修改相应的立项信息或终结立项。
 
 ### 2.2 内容规范
