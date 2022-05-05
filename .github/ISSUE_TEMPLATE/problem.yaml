@@ -17,6 +17,7 @@ body:
     - label: I have searched the existing issues
       required: true
 - type: textarea
+  id: field1
   attributes:
     label: 描述
     description: |
@@ -25,6 +26,7 @@ body:
   validations:
     required: true
 - type: textarea
+  id: field2
   attributes:
     label: 解决方案
     description: 是否有初步的解决方案
@@ -32,6 +34,7 @@ body:
   validations:
     required: false
 - type: textarea
+  id: field3
   attributes:
     label: 其他信息?
     description: |
