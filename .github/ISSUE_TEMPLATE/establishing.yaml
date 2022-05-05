@@ -8,47 +8,45 @@ body:
 - type: markdown
   attributes:
     value: |
-      感谢参与到 Datawhale 社区中来，请填写以下信息！
+      "感谢参与到 Datawhale 社区中来，请填写以下信息！"
 - type: checkboxes
   attributes:
-    label: Datawhale 社区中是否已经存在了相似的项目?
-    description: 请搜索一下社区是否存在类似项目
+    label: "Datawhale 社区中是否已经存在了相似的项目?"
+    description: "请搜索一下社区是否存在类似项目"
     options:
-    - label: I have searched the existing issues
+    - label: "I have searched the existing issues"
       required: true
 - type: textarea
   attributes:
-    label: 背景
-    description: |
-      详细描述一下要立项这个项目的背景信息
+    label: "背景"
+    description: "详细描述一下要立项这个项目的背景信息"
     render: markdown
   validations:
     required: true
 - type: textarea
   attributes:
-    label: 简介
-    description: 描述一下该项目想要达成的目标
+    label: "简介"
+    description: "描述一下该项目想要达成的目标"
     render: markdown
   validations:
     required: true
 - type: textarea
   attributes:
-    label: 规划
-    description: 描述一下项目要做的大致规划是怎么样的
+    label: "规划"
+    description: "描述一下项目要做的大致规划是怎么样的"
     render: markdown
   validations:
     required: true
 - type: textarea
   attributes:
-    label: 项目负责人
+    label: "项目负责人"
     render: markdown
   validations:
     required: true
 - type: textarea
   attributes:
-    label: 其他信息?
-    description: |
-      相关链接或者其他与该项目相关的信息，或者任何其他的背景资料信息
+    label: "其他信息?"
+    description: "相关链接或者其他与该项目相关的信息，或者任何其他的背景资料信息"
     render: markdown
   validations:
     required: false
