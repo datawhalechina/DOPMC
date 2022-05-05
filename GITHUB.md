@@ -1,7 +1,7 @@
 ## ISSUE
 1. 打开项目的 ISSUE 列表，点击 New issue 按钮![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1h9km0vb3j21gr0cbgn9.jpg)
 2. 选择你想要创建的 ISSUE 类型![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1xrdww3qbj21fw0bv3zv.jpg)
-3. 根据模板填写对应的详细信息
+3. 根据模板填写对应的详细信息![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1xrgu4x5xj20r00lamyg.jpg)
 4. 点击 Submit new issue 按钮后就可以看到你提交的 ISSUE 啦✨![](https://tva1.sinaimg.cn/large/e6c9d24ely1h1hb700oq4j21gc0efwh9.jpg)
 5. 如果你没有找到对应的 ISSUE 类型可以在 [Discussion](https://github.com/datawhalechina/DOPMC/discussions) 中进行讨论。
 
