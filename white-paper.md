@@ -1,5 +1,5 @@
 # Datawhale开源项目白皮书（试行）
-本白皮书是Datawhale与其下属开源项目团队所约定的协议，由[Datawhale开源项目管理委员会（Datawhale Open-source Project Management Committee，简称DOPMC）](https://github.com/datawhalechina/DOPMC)制定并发行，其旨在规范化管理开源项目，明确Datawhale和开源项目团队各自的责任与义务。
+本白皮书是Datawhale与其下属开源项目团队所约定的协议，由[Datawhale开源项目管理委员会（Datawhale Open-source Project Management Committee，简称DOPMC）](https://github.com/datawhalechina/DOPMC)制定并发行，其旨在规范化管理开源项目，明确 Datawhale 和开源项目团队各自的责任与义务。
 ## 1. 开源项目创建流程
 <center><img src="./images/liucheng.png"></center>
 
