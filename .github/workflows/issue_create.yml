@@ -13,7 +13,7 @@ jobs:
         with:
           actions: 'welcome'
           token: ${{ secrets.GITHUB_TOKEN }}
-          body: Hi @${{ github.event.issue.user.login }}, welcome! 欢迎参与到 Datawhale 社区 😃
+          body: Hi @${{ github.event.issue.user.login }}, welcome! 欢迎参与到Datawhale社区~
           labels: 'good first issue'
           issue-emoji: '+1, eyes'
   add-assigness:
@@ -25,5 +25,5 @@ jobs:
           actions: 'add-assignees'
           token: ${{ secrets.GITHUB_TOKEN }}
           issue-number: ${{ github.event.issue.number }}
-          assignees: 'SuperSupeng'
+          assignees: 'Sm1les,finlay-liu,GYHHAHA,qiwang067,zhanhao93,skywateryang,andongBlue,mba1398'
           random-to: 1
