@@ -1,18 +1,24 @@
 name: 💡 立项
-description: 在 Datawhale 社区发起一个新的项目
-title: "[New]: "
-labels: [new-project, needs-triage]
+description: 在Datawhale社区发起一个新的项目
+title: "这里写项目名称"
 assignees: 
-- SuperSupeng
+- Sm1les
+- finlay-liu
+- GYHHAHA
+- qiwang067
+- zhanhao93
+- skywateryang
+- andongBlue
+- mba1398
 body:
 - type: markdown
   attributes:
     value: |
-      "感谢参与到 Datawhale 社区中来，请填写以下信息！"
+      👏欢迎来Datawhale社区发起新的项目，为了便于我们了解你的项目，请填写以下信息~
 - type: checkboxes
   attributes:
-    label: "Datawhale 社区中是否已经存在了相似的项目?"
-    description: "请搜索一下社区是否存在类似项目"
+    label: "你是否已经阅读《Datawhale社区贡献协议》？"
+    description: "[《Datawhale社区贡献协议》](https://github.com/datawhalechina/DOPMC/blob/main/CONTRIBUTING.md)"
     options:
     - label: "I have searched the existing projects"
       required: true
