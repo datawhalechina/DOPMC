@@ -14,7 +14,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      👏欢迎来Datawhale社区发起新的项目，为了便于我们了解你的项目，请填写以下信息~
+      👏欢迎你来到Datawhale社区发起新的项目，为了便于我们了解你的项目，请填写以下信息~
 - type: checkboxes
   attributes:
     label: "你是否已经阅读并同意《Datawhale社区贡献协议》？"
