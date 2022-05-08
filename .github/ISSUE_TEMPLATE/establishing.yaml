@@ -27,7 +27,6 @@ body:
   attributes:
     label: "项目简介"
     description: "请对你的项目做个简单的介绍~"
-    render: markdown
   validations:
     required: true
 - type: textarea
@@ -35,7 +34,6 @@ body:
   attributes:
     label: "立项理由"
     description: "请描述一下你发起这个项目的理由~"
-    render: markdown
   validations:
     required: true
 - type: textarea
@@ -43,7 +41,6 @@ body:
   attributes:
     label: "项目受众"
     description: "请描述一下这个项目所面向的受众~"
-    render: markdown
   validations:
     required: true
 - type: textarea
@@ -51,7 +48,6 @@ body:
   attributes:
     label: "项目亮点"
     description: "请描述一下你的项目亮点是什么？如果已有类似项目的话，那与其相比你的项目亮点又有哪些？"
-    render: markdown
   validations:
     required: true
 - type: textarea
@@ -59,7 +55,6 @@ body:
   attributes:
     label: "项目规划"
     placeholder: "请分别从内容、时间和人员三个方面描述一下你的项目规划~"
-    render: markdown
   validations:
     required: true
 - type: textarea
