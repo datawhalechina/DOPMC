@@ -54,17 +54,16 @@ body:
   id: plan
   attributes:
     label: "项目规划"
-    placeholder: "请分别从内容、时间和人员三个方面描述一下你的项目规划~"
+    description: "请分别从内容、时间和人员三个方面描述一下你的项目规划~"
   validations:
     required: true
 - type: textarea
   id: profile
   attributes:
     label: "项目负责人"
-    description: "请在下方填写项目负责人的GitHub主页链接~"
-    render: markdown
+    description: "请在下方填写项目负责人的GitHub主页链接以及联系方式~"
   validations:
-    required: false
+    required: true
 - type: checkboxes
   attributes:
     label: "备注：发起立项申请后DOPMC将会在24小时之内给出答复，如超时未答复请添加DOPMC负责人微信（微信号：at-Sm1les）问询~"
