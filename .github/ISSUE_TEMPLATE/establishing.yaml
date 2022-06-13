@@ -47,7 +47,7 @@ body:
   id: highlight
   attributes:
     label: "项目亮点"
-    description: "请描述一下你的项目亮点是什么？如果已有类似项目的话，那与其相比你的项目亮点又有哪些？"
+    description: "请描述一下你的项目亮点是什么？是否有类似的项目？如果已有类似项目的话，那与其相比你的项目亮点又有哪些？"
   validations:
     required: true
 - type: textarea
@@ -66,7 +66,7 @@ body:
     required: true
 - type: checkboxes
   attributes:
-    label: "备注：发起立项申请后DOPMC将会在24小时之内给出答复，如超时未答复请添加DOPMC负责人微信（微信号：at-Sm1les）问询~"
+    label: "备注：发起立项申请后DOPMC将会在 72h 之内给出答复，如超时未答复请添加DOPMC负责人微信（微信号：at-Sm1les）问询~"
     options:
     - label: "我已知悉上述备注"
       required: true
