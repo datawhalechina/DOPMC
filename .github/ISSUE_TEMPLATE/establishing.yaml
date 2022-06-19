@@ -55,7 +55,7 @@ body:
   attributes:
     label: "项目规划"
     description: "请分别从内容、时间和人员三个方面描述一下你的项目规划~"
-    vlue: |
+    value: |
       至少包括以下内容：
       1.目录
       2.预估完成时间
