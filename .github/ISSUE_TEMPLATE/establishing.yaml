@@ -47,7 +47,7 @@ body:
   id: highlight
   attributes:
     label: "项目亮点"
-    description: "请描述一下你的项目亮点是什么？是否有类似的项目？如果已有类似项目的话，那与其相比你的项目亮点又有哪些？"
+    description: "请确保已对类似项目做过充分调研，如果已有类似项目，请详细列出，并阐述本项目的不同之处~"
   validations:
     required: true
 - type: textarea
@@ -55,6 +55,11 @@ body:
   attributes:
     label: "项目规划"
     description: "请分别从内容、时间和人员三个方面描述一下你的项目规划~"
+    vlue: |
+      至少包括以下内容：
+      1.目录
+      2.预估完成时间
+      3.可预见的困难
   validations:
     required: true
 - type: textarea
