@@ -16,6 +16,7 @@
 | 杨剑砺 | DOPMC Member | [fantastic-matplotlib](https://github.com/datawhalechina/fantastic-matplotlib)项目负责人 |
 | 陈安东 | DOPMC Member | [hands-on-data-analysis](https://github.com/datawhalechina/hands-on-data-analysis)项目负责人 |
 | 王复振 | DOPMC Member | [wonderful-sql](https://github.com/datawhalechina/wonderful-sql)项目负责人 |
+| 牛志康 | DOPMC Member | [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)项目负责人 |
 
 ### 职责
 为各个开源项目团队提供各个方面的资源支持，包括但不限于以下工作：
