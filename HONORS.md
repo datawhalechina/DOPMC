@@ -1,3 +1,21 @@
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 20%;
+}
+table th:nth-of-type(4) {
+    width: 50%;
+}
+table th:nth-of-type(5) {
+    width: 10%;
+}
+</style>
+
 # 2022年Q2颁奖名单
 | 奖项 | 获奖人 | 获奖作品 | 理由 | 提名人 |
 | ---- | ---- | ---- | ---- | ---- |
