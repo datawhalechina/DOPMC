@@ -1,17 +1,20 @@
 # 2022年Q2颁奖名单
-|  奖项   | 获奖人  | 获奖作品/理由 | 提名人 |
-|  ----  | ----  | ---- | ---- |
-| 致卓奖  | 谢文睿 | [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) |范晶晶 |
-| 致卓奖  | 秦州 | [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) | 范晶晶 |
-| 致卓奖  | 王琦 | [easy-rl](https://github.com/datawhalechina/easy-rl) | 谢文睿 |
-| 致卓奖  | 杨毅远 | [easy-rl](https://github.com/datawhalechina/easy-rl) | 谢文睿 |
-| 致卓奖  | 江季 | [easy-rl](https://github.com/datawhalechina/easy-rl) | 谢文睿 |
-| 致远奖  | 耿远昊 | [joyful-pandas](https://github.com/datawhalechina/joyful-pandas) | 谢文睿 |
-| 致远奖  | 王复振 | [wonderful-sql](https://github.com/datawhalechina/wonderful-sql) | 谢文睿 |
-| 致成奖  | 刘羽中 | [competition-baseline](https://github.com/datawhalechina/competition-baseline) | 谢文睿 |
-| 致成奖  | 王贺 | [competition-baseline](https://github.com/datawhalechina/competition-baseline) | 谢文睿 |
-| 致成奖  | 李嘉骐 | [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) | 谢文睿 |
-| 致成奖  | 牛志康 | [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) | 谢文睿 |
-| 致新奖  | 王佳旭 | [leeml-notes](https://github.com/datawhalechina/leeml-notes) | 谢文睿 |
-| 致新奖  | 王茂霖 | [leeml-notes](https://github.com/datawhalechina/leeml-notes) | 谢文睿 |
-| 致新奖  | 罗如意 | [fun-rec](https://github.com/datawhalechina/fun-rec) | 谢文睿 |
+| 奖项 | 获奖人 | 获奖作品 | 理由 | 提名人 |
+| ---- | ---- | ---- | ---- | ---- |
+| 致卓奖 | 谢文睿 | - | 从0到1发起南瓜书项目，是目前组织影响力最大的开源项目，同时做了开源项目背后大量的保姆工作，推动开源项目持续发展；Datawhale开源项目负责人 | 范晶晶 |
+| 致卓奖 | 谢文睿 | [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) | 取得新突破的优秀毕业项目 | 范晶晶 |
+| 致卓奖 | 秦州 | [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) | 取得新突破的优秀毕业项目 | 范晶晶 |
+| 致卓奖 | 王琦 | [easy-rl](https://github.com/datawhalechina/easy-rl) | 取得新突破的优秀毕业项目 | 谢文睿 |
+| 致卓奖 | 杨毅远 | [easy-rl](https://github.com/datawhalechina/easy-rl) | 取得新突破的优秀毕业项目 | 谢文睿 |
+| 致卓奖 | 江季 | [easy-rl](https://github.com/datawhalechina/easy-rl) | 取得新突破的优秀毕业项目 | 谢文睿 |
+| 致远奖 | 耿远昊 | [joyful-pandas](https://github.com/datawhalechina/joyful-pandas) | 持续维护的优秀毕业项目 | 谢文睿 |
+| 致远奖 | 王复振 | [wonderful-sql](https://github.com/datawhalechina/wonderful-sql) | 持续维护的优秀毕业项目 | 谢文睿 |
+| 致成奖 | 刘羽中 | [competition-baseline](https://github.com/datawhalechina/competition-baseline) | 优秀毕业项目 | 谢文睿 |
+| 致成奖 | 王贺 | [competition-baseline](https://github.com/datawhalechina/competition-baseline) | 优秀毕业项目 | 谢文睿 |
+| 致成奖 | 李嘉骐 | [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) | 优秀毕业项目 | 谢文睿 |
+| 致成奖 | 牛志康 | [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) | 优秀毕业项目 | 谢文睿 |
+| 致新奖 | 王茂霖 | [leeml-notes](https://github.com/datawhalechina/leeml-notes) | 优秀新项目 | 谢文睿 |
+| 致新奖 | 王佳旭 | [leeml-notes](https://github.com/datawhalechina/leeml-notes) | 优秀新项目 | 谢文睿 |
+| 致新奖 | 金一鸣 | [leeml-notes](https://github.com/datawhalechina/leeml-notes) | 优秀新项目 | 谢文睿 |
+| 致新奖 | 罗如意 | [fun-rec](https://github.com/datawhalechina/fun-rec) | 优秀新项目 | 谢文睿 |
+| 保姆奖 | 谢文睿 | - | 做了许多开源项目保姆工作 | 范晶晶 |
