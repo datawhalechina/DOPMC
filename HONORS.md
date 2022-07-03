@@ -1,23 +1,6 @@
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 10%;
-}
-table th:nth-of-type(3) {
-    width: 20%;
-}
-table th:nth-of-type(4) {
-    width: 50%;
-}
-table th:nth-of-type(5) {
-    width: 10%;
-}
-</style>
 # 2022年Q2颁奖名单
 | 奖项 | 获奖人 | 获奖作品 | 理由 | 提名人 |
-| ---- | ---- | ---- | ---- | ---- |
+| --- | --- | --- | --- | --- |
 | 致卓奖 | 谢文睿 | - | 从0到1发起南瓜书项目，是目前组织影响力最大的开源项目，同时做了开源项目背后大量的保姆工作，推动开源项目持续发展；Datawhale开源项目负责人 | 范晶晶 |
 | 致卓奖 | 谢文睿 | [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) | 取得新突破的优秀毕业项目 | 范晶晶 |
 | 致卓奖 | 秦州 | [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) | 取得新突破的优秀毕业项目 | 范晶晶 |
