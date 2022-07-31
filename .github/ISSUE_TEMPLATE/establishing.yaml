@@ -62,7 +62,7 @@ body:
       1.目录（如有多级至少精确到二级）
       2.各章节负责人
       3.各章节预估完成日期
-      3.可预见的困难
+      4.可预见的困难
   validations:
     required: true
 - type: textarea
