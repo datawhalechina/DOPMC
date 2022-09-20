@@ -1,6 +1,6 @@
 # DOPMC
 
-Datawhale开源项目管理委员会（Datawhale Open-source Project Management Committee，简称DOPMC），其成员体系参见[Roles](./ROLES.md)。
+Datawhale开源项目管理委员会（Datawhale Open-source Project Management Committee，简称DOPMC），其成员体系参见[Roles](https://github.com/datawhalechina/DOPMC/blob/main/ROLES.md)。
 
 ## Datawhale开源社区推出的内容
 
@@ -8,9 +8,9 @@ Datawhale开源项目管理委员会（Datawhale Open-source Project Management 
 
 ## 参与Datawhale开源社区
 
-如果你想在Datawhale开源社区发起一个开源项目，请详细阅读[Datawhale开源项目指南](./GUIDE.md)。
+如果你想在Datawhale开源社区发起一个开源项目，请详细阅读[Datawhale开源项目指南](https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md)。
 
-*ps：如果你对 Github 的操作不太熟悉，可以查看[Github 极简操作指南](./GITHUB.md)，仅需30秒即可创建属于你的第一个Issue✨*
+*ps：如果你对 Github 的操作不太熟悉，可以查看[Github 极简操作指南](https://github.com/datawhalechina/DOPMC/blob/main/GITHUB.md)，仅需30秒即可创建属于你的第一个Issue✨*
 
 ### 参与项目💓
 
