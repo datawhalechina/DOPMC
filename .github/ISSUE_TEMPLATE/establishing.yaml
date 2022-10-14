@@ -20,6 +20,12 @@ body:
       👏欢迎你来到Datawhale社区发起新的项目，为了便于我们了解你的项目，请填写以下信息~
 - type: checkboxes
   attributes:
+    label: "你是否已经阅读并同意《Datawhale开源项目指南》？"
+    options:
+    - label: "我已阅读并同意[《Datawhale开源项目指南》](https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md)"
+      required: true
+- type: checkboxes
+  attributes:
     label: "你是否已经阅读并同意《Datawhale开源项目行为准则》？"
     options:
     - label: "我已阅读并同意[《Datawhale开源项目行为准则》](https://github.com/datawhalechina/DOPMC/blob/main/CODE_OF_CONDUCT.md)"
