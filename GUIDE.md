@@ -12,7 +12,7 @@
 1. 项目负责人需阅读熟知并同意[《Datawhale开源项目行为准则》](./CODE_OF_CONDUCT.md)中的所有内容；
 2. 打开[创建Issue](https://github.com/datawhalechina/DOPMC/issues/new/choose)，选择创建“立项”型Issue，根据模板填写立项申请；
 3. [DOPMC](./ROLES.md)公开审核立项申请，并在相应Issue评论审核意见；
-4. [DOPMC](./ROLES.md)全员审核通过则立项成功，由[运营小组](./OP.md)将Issue划归至[项目看板](https://github.com/datawhalechina/DOPMC/projects/1)的“立项”区，部分通过则划归至“筹划”区，待项目负责人按照审核意见修缮后再继续审核，直至项目立项成功；
+4. [DOPMC](./ROLES.md)审核通过则立项成功，由[运营小组](./OP.md)将Issue划归至[项目看板](https://github.com/datawhalechina/DOPMC/projects/1)的“立项”区，部分通过则划归至“筹划”区，待项目负责人按照审核意见修缮后再继续审核，直至项目立项成功；
 5. 项目负责人为项目取名（只能包含小写字母和“-”），[运营小组](./OP.md)在Datawhale账号下为其创建同名Repository，并赋予项目负责人Maintain权限；
 6. 项目负责人根据[README 模版](./README_example.md)撰写项目的README，按照[Sphinx教程](https://www.bilibili.com/video/BV12B4y1u7PF)搭建在线阅读网站。
 
