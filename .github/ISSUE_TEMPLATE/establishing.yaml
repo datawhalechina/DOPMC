@@ -12,6 +12,7 @@ assignees:
 - mba1398
 - NoFish-528
 - ruyiluo
+- itcharge
 labels: "立项申请"
 body:
 - type: markdown
@@ -80,7 +81,7 @@ body:
     required: true
 - type: checkboxes
   attributes:
-    label: "备注：发起立项申请后DOPMC将会在 72h 之内给出答复，如超时未答复请添加DOPMC负责人微信（微信号：at-Sm1les）问询~"
+    label: "备注：发起立项申请后DOPMC成员将会在7天内给出审核意见，若7天内无反对意见则默认立项通过~"
     options:
     - label: "我已知悉上述备注"
       required: true
