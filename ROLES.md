@@ -12,6 +12,7 @@
 | 王复振 | DOPMC成员 | [wonderful-sql](https://github.com/datawhalechina/wonderful-sql)项目负责人 |
 | 牛志康 | DOPMC成员 | [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)项目负责人 |
 | 罗如意 | DOPMC成员 | [fun-rec](https://github.com/datawhalechina/fun-rec)项目负责人 |
+| 杨世超 | DOPMC成员 | [leetcode-notes](https://github.com/datawhalechina/leetcode-notes)项目负责人
 
 ## 职责
 制定并审核Datawhale开源社区的制度和流程。
