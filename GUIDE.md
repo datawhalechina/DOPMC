@@ -14,7 +14,7 @@
 3. [DOPMC](./ROLES.md)公开审核立项申请，并在相应Issue评论审核意见；
 4. [DOPMC](./ROLES.md)审核通过则立项成功，由[运营小组](./OP.md)将Issue划归至[项目看板](https://github.com/datawhalechina/DOPMC/projects/1)的“立项”区，部分通过则划归至“筹划”区，待项目负责人按照审核意见修缮后再继续审核，直至项目立项成功；
 5. 项目负责人为项目取名（只能包含小写字母和“-”），[运营小组](./OP.md)在Datawhale账号下为其创建同名Repository，并赋予项目负责人Maintain权限；
-6. 项目负责人按照[模板：repo-template](https://github.com/datawhalechina/repo-template)组织项目文件。
+6. 项目负责人按照[repo-template](https://github.com/datawhalechina/repo-template)组织Repository内的文件。
 ## 内测
 该阶段用于项目的快速验证，其流程如下：
 1. 项目开始推进后，项目负责人可随时联系[运营小组](./OP.md)发起内测；
