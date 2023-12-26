@@ -1,19 +1,6 @@
 name: 💡 立项
 description: 在Datawhale社区发起一个新的项目
 title: "这里写项目名称"
-assignees: 
-- Sm1les
-- finlay-liu
-- GYHHAHA
-- qiwang067
-- zhanhao93
-- skywateryang
-- andongBlue
-- mba1398
-- NoFish-528
-- ruyiluo
-- itcharge
-- hu-minghao
 labels: "立项申请"
 body:
 - type: markdown
