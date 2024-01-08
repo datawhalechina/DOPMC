@@ -13,7 +13,9 @@
 | 牛志康 | DOPMC成员 | [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)项目负责人 |
 | 罗如意 | DOPMC成员 | [fun-rec](https://github.com/datawhalechina/fun-rec)项目负责人 |
 | 杨世超 | DOPMC成员 | [leetcode-notes](https://github.com/datawhalechina/leetcode-notes)项目负责人 |
-| 胡明豪 | DOPMC成员 | [smoothly-vslam](https://github.com/datawhalechina/smoothly-vslam )项目负责人 |
+| 胡明豪 | DOPMC成员 | [smoothly-vslam](https://github.com/datawhalechina/smoothly-vslam)项目负责人 |
+| 宋志学 | DOPMC成员 | [self-llm](https://github.com/datawhalechina/self-llm)项目负责人 |
+| 邹雨衡 | DOPMC成员 | [self-llm](https://github.com/datawhalechina/self-llm)项目负责人 |
 
 ## 职责
 制定并审核Datawhale开源社区的制度和流程。
