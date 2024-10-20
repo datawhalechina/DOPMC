@@ -1,6 +1,6 @@
 name: 💡 立项
 description: 在Datawhale社区发起一个新的项目
-title: "这里写项目名称"
+title: "这里写项目名称，要求只能包含小写英文字母和-，例如：pumpkin-book、joyful-pandas"
 labels: "立项申请"
 body:
 - type: markdown
