@@ -68,7 +68,7 @@ body:
   validations:
     required: true
 - type: textarea
-  id: profile
+  id: contact
   attributes:
     label: "项目负责人联系方式"
     description: "请在下方填写项目负责人的联系方式，例如微信、QQ、邮箱等即时通讯方式"
