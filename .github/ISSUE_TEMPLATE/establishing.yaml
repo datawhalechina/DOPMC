@@ -61,6 +61,11 @@ body:
   validations:
     required: true
 - type: textarea
+  id: content
+  attributes:
+    label: "已有内容"
+    description: "如果你已经写好了部分或者全部内容，请在下方填写可公开查阅的链接，例如GitHub链接、博客链接等"
+- type: textarea
   id: profile
   attributes:
     label: "项目负责人GitHub主页链接"
