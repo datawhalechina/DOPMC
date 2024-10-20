@@ -23,35 +23,35 @@ body:
   id: description
   attributes:
     label: "项目简介"
-    description: "请对你的项目做个简单的介绍~"
+    description: "请对你的项目做个简单的介绍"
   validations:
     required: true
 - type: textarea
   id: motivation
   attributes:
     label: "立项理由"
-    description: "请描述一下你发起这个项目的理由~"
+    description: "请描述一下你发起这个项目的理由"
   validations:
     required: true
 - type: textarea
   id: audience
   attributes:
     label: "项目受众"
-    description: "请描述一下这个项目所面向的受众~"
+    description: "请描述一下这个项目所面向的受众"
   validations:
     required: true
 - type: textarea
   id: highlight
   attributes:
     label: "项目亮点"
-    description: "请确保已对类似项目做过充分调研，如果已有类似项目，请详细列出，并阐述本项目的不同之处~"
+    description: "请确保已对类似项目做过充分调研，如果已有类似项目，请详细列出，并阐述本项目的不同之处"
   validations:
     required: true
 - type: textarea
   id: plan
   attributes:
     label: "项目规划"
-    description: "请分别从内容、时间和人员三个方面描述一下你的项目规划~"
+    description: "请分别从内容、时间和人员三个方面描述一下你的项目规划"
     value: |
       至少包括以下内容：
       1.目录（如有多级至少精确到二级）
@@ -63,8 +63,15 @@ body:
 - type: textarea
   id: profile
   attributes:
-    label: "项目负责人"
-    description: "请在下方填写项目负责人的GitHub主页链接以及联系方式~"
+    label: "项目负责人GitHub主页链接"
+    description: "请在下方填写项目负责人的GitHub主页链接"
+  validations:
+    required: true
+- type: textarea
+  id: profile
+  attributes:
+    label: "项目负责人联系方式"
+    description: "请在下方填写项目负责人的联系方式，例如微信、QQ、邮箱等即时通讯方式"
   validations:
     required: true
 - type: checkboxes
