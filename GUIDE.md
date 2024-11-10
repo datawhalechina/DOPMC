@@ -12,6 +12,7 @@
 1. 项目负责人需阅读熟知并同意[《Datawhale开源项目行为准则》](./CODE_OF_CONDUCT.md)中的所有内容；
 2. 项目负责人使用Datawhale仓库模版在自己的GitHub账号下创建项目仓库，模版链接：https://github.com/datawhalechina/repo-template ，使用方式如下：
 <img width="1376" alt="image" src="https://github.com/user-attachments/assets/21de6e49-469f-4f74-a115-cb9afbe23624">
+
 3. 创建完项目仓库后开始推进项目，项目完成度达到计划的50%时，打开[创建Issue](https://github.com/datawhalechina/DOPMC/issues/new/choose)，选择创建“立项”型Issue，根据提示填写立项申请；
 4. [DOPMC](./ROLES.md)公开审核立项申请，并在相应Issue评论审核意见；
 5. [DOPMC](./ROLES.md)审核通过则立项成功，由[保姆团队](./OP.md)将Issue划归至[项目看板](https://github.com/datawhalechina/DOPMC/projects/1)的“立项”区，部分通过则划归至“筹划”区，待项目负责人按照审核意见修缮后再继续审核，直至项目立项成功；
