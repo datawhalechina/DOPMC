@@ -8,8 +8,8 @@
 3. 为了保证资源充分利用，采用主动申请原则，不申请则不发放！
    
 ## 术语说明
-- bug修复PR：被标记为“bug”且被merge进repo的Pull request，要求有实质性错误修正，不能是错别字修正、文档修正、简单代码逻辑修正等；
-- 内容新增PR：指标记为“enhancement”且被merge进repo的Pull request，要求至少包含一个完整小节内容；
+- bug修复PR：被标记为“bug”且被merge进repo的Pull Request，要求有实质性错误修正，不能是错别字修正、文档修正、简单代码逻辑修正等；
+- 内容新增PR：指标记为“enhancement”且被merge进repo的Pull Request，要求至少包含一个完整小节内容；
 - 有效PR：bug修复PR、内容新增PR。
 
 ## 开源项目负责人奖励规则
@@ -24,7 +24,7 @@
 | 为开源项目提交<strong>1</strong>次内容新增PR | +3鲸币 / 次 |
 | 为开源项目提交<strong>1</strong>次bug修复PR | +1鲸币 / 次 |
 | 为开源项目提交<strong>1</strong>次Commit | +1鲸币 / 次，每个项目每天最多1次 |
-| 提交过有效PR的项目star数达到<strong>1k、1w</strong> | +10鲸币 / 项目 |
+| 提交过有效PR或者Commit的项目star数达到<strong>1k、1w</strong> | +10鲸币 / 项目 |
 
 ## 开源项目保姆奖励规则
 | 行为 | 奖励 |
