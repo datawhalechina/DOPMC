@@ -169,9 +169,9 @@ def compute_owner_coins(cmts, stars):
         for stage in stages:
             if star_num >= stage:
                 if style == 'contributor':
-                    stars_coins += 5
-                    details = '{}的Star数超过{}，作为贡献者奖励5鲸币'.format(repo, stage)
-                    print('\t'.join([datetime.datetime.today().strftime('%Y-%m-%d'), details, '5']))
+                    stars_coins += 10
+                    details = '{}的Star数超过{}，作为贡献者奖励10鲸币'.format(repo, stage)
+                    print('\t'.join([datetime.datetime.today().strftime('%Y-%m-%d'), details, '10']))
                 
                 if style == 'owner':
                     stars_coins += 100
