@@ -75,7 +75,7 @@ body:
     required: true
 - type: checkboxes
   attributes:
-    label: "❗❗❗注意事项❗❗❗：为了便于我们跟你取得联系，请加务必加微信：at-Sm1les（备注你来自于项目立项即可），发起立项申请后DOPMC成员将会在7天内给出审核意见并评论在该Issue，若7天内无反对意见则默认立项通过，如有任何疑问或者需要帮助可随时联系微信：at-Sm1les"
+    label: "❗❗❗注意事项❗❗❗：为了便于我们跟你取得联系，请加务必加微信：at-Sm1les（备注你来自于项目立项即可），发起立项申请后DOPMC成员将会在7天内给出审核意见并评论在该Issue，若7天内无反对意见则默认立项通过，如有任何疑问或者需要帮助均可随时联系微信：at-Sm1les"
     options:
     - label: "我已知悉上述注意事项并添加了微信：at-Sm1les"
       required: true
