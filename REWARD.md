@@ -31,3 +31,6 @@
 | --- | --- |
 | 完成每周例行进度跟进 | +1鲸币 |
 | 所服务的项目star数达到<strong>1k、1w</strong> | +10鲸币 / 项目 |
+
+## 计算脚本
+[whale-coin.py](https://github.com/datawhalechina/DOPMC/edit/main/whale-coin.py)
