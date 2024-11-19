@@ -66,13 +66,6 @@ body:
   attributes:
     label: "已完成内容"
     description: "如果你已经写好了部分或者全部内容，请在下方填写可公开访问的链接，例如GitHub链接、博客链接等"
-- type: textarea
-  id: profile
-  attributes:
-    label: "项目负责人GitHub主页链接"
-    description: "请在下方填写项目负责人的GitHub主页链接"
-  validations:
-    required: true
 - type: checkboxes
   attributes:
     label: "❗❗❗注意事项❗❗❗：为了便于我们跟你取得联系，请加务必加我们的微信：at-Sm1les（备注你来自于项目立项即可），发起立项申请后DOPMC成员将会在7天内给出审核意见并评论在该Issue，若7天内无反对意见则默认立项通过，如有任何疑问或者需要帮助均可随时联系微信：at-Sm1les"
