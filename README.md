@@ -4,7 +4,7 @@ Datawhale开源项目管理委员会（Datawhale Open-source Project Management 
 
 ## Datawhale开源社区推出的内容
 
-- [Datawhale人工智能培养方案](https://datawhale.feishu.cn/docs/doccn0AOicI3LJ8RwhY0cuDPSOc)
+- [Datawhale人工智能培养方案](https://datawhaler.feishu.cn/wiki/JcnEwCYO2i0v3FkBizWcLfWanKb)
 
 ## 参与Datawhale开源社区
 
