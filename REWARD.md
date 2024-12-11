@@ -1,4 +1,4 @@
-<div align=center><h1>鲸币奖励规则</h1></div>
+<div align=center><h1>Datawhale开源项目鲸币奖励规则</h1></div>
 
 为回馈Datawhale开源社区成员为社区所做的贡献，现设定本规则奖励社区成员，其可用被奖励的鲸币兑换想要的Datawhale周边礼品。
 
