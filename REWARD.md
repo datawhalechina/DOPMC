@@ -8,9 +8,9 @@
 3. 为了保证资源充分利用，采用主动申请原则，不申请则不发放！
    
 ## 术语说明
-- bug修复PR：被标记为“bug”且被merge进repo的Pull Request，要求有实质性错误修正，不能是错别字修正、文档修正、简单代码逻辑修正等；
-- 内容新增PR：指标记为“enhancement”且被merge进repo的Pull Request，要求至少包含一个完整小节内容；
-- 有效PR：bug修复PR、内容新增PR。
+- 有效PR：
+   - bug修复PR：被标记为“bug”且被merge进repo的Pull Request，要求有实质性错误修正，不能是错别字修正、文档修正、简单代码逻辑修正等；
+   - 内容新增PR：指标记为“enhancement”且被merge进repo的Pull Request，要求至少包含一个完整小节内容；
 
 ## 开源项目负责人奖励规则
 | 行为 | 奖励 |
