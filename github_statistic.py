@@ -8,6 +8,8 @@ import time
 from collections import namedtuple, Counter
 import requests
 import json
+import sys
+from whale_coin import get_commits
 
 GITHUB_KEY = os.getenv('GITHUB_KEY')
 
@@ -44,58 +46,59 @@ def get_repos(org):
             remaining = False
     return result
 
-
-def get_all_contributor_commit_activity(repo=''):
-    """ 读取仓库下的所有成员的提交记录数 """
-    url = 'https://api.github.com/repos/datawhalechina/' + repo + '/stats/contributors'
-    res = requests.get(url, headers=headers)
-    if res.status_code != 200:
-        raise ValueError(res.text)
-    res = res.json()
-    return res
-
-
-
-
 if __name__ == "__main__":
     # 统计起始时间点
-    start_time = '2025-01-01 00:00:00'
+    start_time = '2025-04-01T00:00:00Z'
+    end_time = '2025-07-01T00:00:00Z'
     
     ### 华丽的分界线，分界线以下的代码不用关注 ###
-    max_try_times = 3
+    ok_repo = set()
+    with open('github_statistic_out.tsv') as f:
+        for line in f:
+            repo = line.split('\t')[0].strip()
+            ok_repo.add(repo)
     repos = get_repos('datawhalechina')
-    repos = [x['name'] for x in repos]
+    print('{}\t{}'.format('total repos:', len(repos)), file=sys.stderr)
+    repos = [x['name'] for x in repos if not x['private']]
+    print('{}\t{}'.format('public repos:', len(repos)), file=sys.stderr)
+    print('{}\t{}'.format('already repos:', len(ok_repo)), file=sys.stderr)
+    
+    
 
-    start_time_array = time.strptime(start_time, "%Y-%m-%d %H:%M:%S")
-    start_time_stamp = int(time.mktime(start_time_array))
-
+    max_try_times = 3
     for repo in repos:
-        res = []
+        if repo in ok_repo:
+            continue
+        
+        author_cnt = {}
+        commits = []
         try_times = 0
         while True:
             if try_times > max_try_times:
-                print('{}\t{}'.format(repo, 'get contributor commit fail'))
+                print('{}\t{}'.format(repo, 'get contributor commit fail'), file=sys.stderr)
                 break
             try:
-                res = get_all_contributor_commit_activity(repo)
+                commits = get_commits(repo=repo, since=start_time, until=end_time)
             except:
                 time.sleep(1)
                 try_times += 1
             else:
                 break
+        
+        outputs = []
+        for cmt in commits:
+            sha = cmt['sha']
+            if cmt['author']:
+                author_name = cmt['author']['login']
+            else: # 贡献者修改了用户名导致author字段为空则用历史的用户名
+                author_name = cmt['commit']['author']['name']
 
-        for item in res:
-            author = item['author']
-            weeks = item['weeks']
-            total_a = 0
-            total_d = 0
-            total_c = 0
-            for week in weeks:
-                if week['w'] < start_time_stamp:
-                    continue
-                total_a += week['a']
-                total_d += week['d']
-                total_c += week['c']
-            
-            print('{}\t{}\t{}\t{}\t{}'.format(repo, author['login'], total_a, total_d, total_c))
+            if author_name not in author_cnt:
+                author_cnt[author_name] = {
+                    'commits': []
+                }
 
+            author_cnt[author_name]['commits'].append({'repo': repo, 'url': cmt['html_url']})
+        
+        for author_name in author_cnt:
+            print(f'{repo}\t{author_name}\t{len(author_cnt[author_name]['commits'])}', flush=True)
