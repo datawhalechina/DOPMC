@@ -33,7 +33,7 @@
 | 所服务的项目star数达到<strong>1k、1w</strong> | +10鲸币 / 项目 |
 
 ## 鲸币计算脚本
-运行以下脚本即可计算出你当前被奖励的鲸币数量和明细：[whale-coin.py](https://github.com/datawhalechina/DOPMC/edit/main/whale-coin.py)
+运行以下脚本即可计算出你当前被奖励的鲸币数量和明细：[whale_coin.py](https://github.com/datawhalechina/DOPMC/edit/main/whale_coin.py)
 
 ## 鲸币兑换Datawhale周边
 联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)
