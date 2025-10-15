@@ -1,3 +1,4 @@
+
 """ 
 Datawhale仓库统计分析
 使用说明请看下方__main__模块的注释
@@ -48,8 +49,8 @@ def get_repos(org):
 
 if __name__ == "__main__":
     # 统计起始时间点
-    start_time = '2025-04-01T00:00:00Z'
-    end_time = '2025-07-01T00:00:00Z'
+    start_time = '2025-07-01T00:00:00Z'
+    end_time = '2025-10-01T00:00:00Z'
     
     ### 华丽的分界线，分界线以下的代码不用关注 ###
     ok_repo = set()
@@ -79,13 +80,15 @@ if __name__ == "__main__":
                 break
             try:
                 commits = get_commits(repo=repo, since=start_time, until=end_time)
-            except:
+                if not commits:
+                    print('{}\t{}'.format(repo, 'no commits'), flush=True)
+            except Exception as e:
                 time.sleep(1)
                 try_times += 1
+                print(e, file=sys.stderr)
             else:
                 break
         
-        outputs = []
         for cmt in commits:
             sha = cmt['sha']
             if cmt['author']:
@@ -101,4 +104,4 @@ if __name__ == "__main__":
             author_cnt[author_name]['commits'].append({'repo': repo, 'url': cmt['html_url']})
         
         for author_name in author_cnt:
-            print(f'{repo}\t{author_name}\t{len(author_cnt[author_name]['commits'])}', flush=True)
+            print(f"{repo}\t{author_name}\t{len(author_cnt[author_name]['commits'])}", flush=True)
