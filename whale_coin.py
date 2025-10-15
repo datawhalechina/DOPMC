@@ -24,18 +24,23 @@ else:
     }
 
 
-def get_commits(repo, username=''):
+def get_commits(repo, username='', since=None, until=None):
     """ 读取commit记录 """
     url = 'https://api.github.com/repos/datawhalechina/'+ repo + '/commits'
+    params = {
+        "per_page": 100
+    }
     if username:
-        url += '?author=' + username + '&per_page=100'
-    else:
-        url += '?per_page=100'
+        params["author"] = username
+    if since:
+        params["since"] = since
+    if until:
+        params["until"] = until
 
     remaining = True
     result = []
     while remaining:
-        res = requests.get(url, headers=headers)
+        res = requests.get(url, headers=headers, params=params)
         if res.status_code != 200:
             raise ValueError(res.text)
         header_link = res.headers.get('Link', '')
