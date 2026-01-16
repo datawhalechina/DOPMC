@@ -33,3 +33,25 @@
 6. 专项内测组在规定时间内完成内测并产出内测反馈。
 7. 若内测反馈中有原则性问题，待贡献者修订后，内测组进行验收，验收通过则结束内测。
 8. 若内测反馈中无原则性问题，贡献者自行决定是否结束内测、是否增加验收环节以及是否开启下一轮内测。
+
+## 内测组成员名单（排名不分先后）
+|  姓名（GitHub用户名）| 简介 | 擅长的领域 |
+|  ----  | ----  | ----  |
+| [牧小熊（muxiaoxiong）](https://github.com/muxiaoxiong) | Datawhale成员，AI算法工程师，Datawhale成员，阿里天池/科大讯飞竞赛平台特邀行业竞赛嘉宾 | 机器学习、深度学习、LLM、向量数据库、agent |
+| [王熠明（bald0wang）](https://github.com/bald0wang) | Datawhale成员，四大营教程输出数量第一 | LLM应用开发、Agent应用开发 |
+| [邹雨衡（logan-zou）](https://github.com/logan-zou) | Datawhale 成员，happy-llm、llm-cookbook 等 LLM 开源项目发起人、负责人，负责项目获 github star 7w+，现任某大厂 AI 工程师 | LLM、NLP |
+| [李秀奇（li-xiu-qi）](https://github.com/li-xiu-qi) | Datawhale成员，我是李秀奇，可以叫我筱可（xiaoke）。我专注于Python、JavaScript和Rust等语言，主要使用FastAPI和React框架。我非常擅长RAG系统开发、Agent系统开发、多模态Agent或RAG系统开发。我也会大语言模型（LLM）的微调和预训练（我曾复现过nanochat的LLM预训练流程），以及多模态模型的微调（如self-llm的Qwen3-VL-4B-Instruct LoRA 可视化微调案例 - LaTeXOCR）和embedding模型的微调（如代码检索场景微调实战，基于pytorch微调BGE-M3 embedding模型）。| LLM、Agent、RAG、AI编程 |
+| [娄天奥（lta155）](https://github.com/lta155) | Datawhale成员，中国科学院大学计算机技术硕士在读，Llm-universe负责人，多次获得竞赛top，某大厂基础模型部实习中，self-llm、handy-ollama贡献者，多次担任datawhale组队学习讲师 | 	LLM、RAG、RLHF |
+| [柯慕灵（1985312383）](https://github.com/1985312383) | Datawhale成员，上海科技大学计算机硕士。常用语言、工具及框架：Python，pytorch，git，各数分、机器学习、深度学习工具，各ai生成工具的深度体验者（主要偏向llm，vibe coding，文生图） | 机器学习、深度学习、CV、推荐、CT重建 |
+| [胡锐锋（Relph1119）](https://github.com/Relph1119) | Datawhale成员，1.曾做过大型企业级项目的系统架构设计；2.深入研究过RagFlow、Dify项目源码；3.已完成李航《机器学习方法》的全部课后习题；4.在系统工程、系统架构设计领域有深入理解。 | 机器学习、RAG、LLM、深度学习、系统工程、系统架构设计 |
+| [红星（SilverRiolu）](https://github.com/SilverRiolu) | Datawhale成员，世界五百强数据分析师、Datawhale《用Python做数据化运营》、《AI办公》、《AI数据分析》项目开发者 | 数据分析、机器学习、Agent |
+| [陈辅元（Fyuan0206）](https://github.com/Fyuan0206) | Datawhale成员，算法工程师，参与过agentic-ai、self-llm 、easy-vectordb 等LLM方向的开源项目，组织并举办多场 Datawhale 城市活动与高校行 | 深度学习、LLM、agent、RAG |
+| [陈安东（andongBlue）](https://github.com/andongBlue)  | Datawhale成员，哈尔滨工业大学计算机科学与技术方向的博士研究生，研究方向是大语言模型（LLMs）在多语言与多模态推理中的方法、能力边界与系统性评测。主导并维护面向大模型学习与实践的开源项目，致力于将复杂模型方法进行结构化总结与可迁移沉淀。我关注研究问题本身的长期价值，倾向于以系统化视角理解模型能力，而非短期工程优化。 | 大模型、多模态大模型、Agent、基于大模型的强化学习、深度学习、自然语言处理、学术论文、互联网大厂算法 |
+| [管柯琴（YangSuoly）](https://github.com/YangSuoly) | Datawhale成员，清华大学数据科学和信息技术专业博士，参与了量化whalequant和undingable优化的教程  | 量化金融、图网络、大模型智能体 |
+| [孙博辰（Micheal024）](https://github.com/Micheal024)  | Datawhale成员，科班本科生，啃过南瓜书、蝴蝶书、动手学深度学习详解习题、hello-agent等教程，做过lora微调，连续参加五次2024年夏令营当运营助教，做过两场高校行  | Agent、RAG、RL、深度学习、多智能体 |
+| [黄玉琳（lynnhuang97）](https://github.com/lynnhuang97)  | Datawhale成员，上海财经大学管理科学与工程本硕，2次上海市优秀毕业生。京东AI算法工程师，5年机器学习/深度学习/大模型经验，多次获得集团技术榜样等奖项。《ChatGPT原理与应用开发》作者。  | 统计、机器学习、深度学习、LLM、多模态、预训练、RLHF、强化学习  |
+| [王翔（xiangking）](https://github.com/xiangking)  | Datawhale成员，医疗大模型领域的算法工程师，在学术创新平台和AI头部企业都分别任职，参与过从0到一的领域大模型研发，致力于AI技术前沿探索与落地普世。  | NLP、LLM、医疗大模型  |
+| [高立业（0-yy-0）](https://github.com/0-yy-0)  | Datawhale成员，搜索算法工程师，参与过多项开源项目，llm-universe、llm-cookbook、self-llm 等 | 机器学习、深度学习、LLM、搜索、RAG、Agent |
+| [黎佳佳（Deemakaice）](https://github.com/Deemakaice)  | Datawhale成员，目前从事具身智能领域AI产品经理3年，有机械臂产品、人形机器人产品化落地经验。主要负责本体软件功能设计、多模态交互模块的软硬件定义，以及业务场景商业化落地。 | 具身智能、智能硬件项目、AI应用产品、语音交互、多模态交互 |
+
+
