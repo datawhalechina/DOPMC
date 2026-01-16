@@ -38,7 +38,7 @@
 ## 内测组成员名单（排名不分先后）
 |  姓名（GitHub用户名）| 简介 | 擅长的领域 |
 |  ------------------  | ------------------------------------------------------  | --------- |
-| [牧小熊（muxiaoxiong）](https://github.com/muxiaoxiong) | Datawhale成员，AI算法工程师，Datawhale成员，阿里天池/科大讯飞竞赛平台特邀行业竞赛嘉宾 | 机器学习、深度学习、LLM、向量数据库、agent |
+| [牧小熊（muxiaoxiong）](https://github.com/muxiaoxiong) | Datawhale成员，AI算法工程师，阿里天池/科大讯飞竞赛平台特邀行业竞赛嘉宾 | 机器学习、深度学习、LLM、向量数据库、agent |
 | [王熠明（bald0wang）](https://github.com/bald0wang) | Datawhale成员，四大营教程输出数量第一 | LLM应用开发、Agent应用开发 |
 | [邹雨衡（logan-zou）](https://github.com/logan-zou) | Datawhale 成员，happy-llm、llm-cookbook 等 LLM 开源项目发起人、负责人，负责项目获 github star 7w+，现任某大厂 AI 工程师 | LLM、NLP |
 | [李秀奇（li-xiu-qi）](https://github.com/li-xiu-qi) | Datawhale成员，我是李秀奇，可以叫我筱可（xiaoke）。我专注于Python、JavaScript和Rust等语言，主要使用FastAPI和React框架。我非常擅长RAG系统开发、Agent系统开发、多模态Agent或RAG系统开发。我也会大语言模型（LLM）的微调和预训练（我曾复现过nanochat的LLM预训练流程），以及多模态模型的微调（如self-llm的Qwen3-VL-4B-Instruct LoRA 可视化微调案例 - LaTeXOCR）和embedding模型的微调（如代码检索场景微调实战，基于pytorch微调BGE-M3 embedding模型）。| LLM、Agent、RAG、AI编程 |
