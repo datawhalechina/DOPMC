@@ -55,7 +55,7 @@
 | [高立业（0-yy-0）](https://github.com/0-yy-0)  | Datawhale成员，搜索算法工程师，参与过多项开源项目，llm-universe、llm-cookbook、self-llm 等 | 机器学习、深度学习、LLM、搜索、RAG、Agent |
 | [黎佳佳（Deemakaice）](https://github.com/Deemakaice)  | Datawhale成员，目前从事具身智能领域AI产品经理3年，有机械臂产品、人形机器人产品化落地经验。主要负责本体软件功能设计、多模态交互模块的软硬件定义，以及业务场景商业化落地。 | 具身智能、智能硬件项目、AI应用产品、语音交互、多模态交互 |
 | [蔡鋆捷（xinala-781）](https://github.com/xinala-781) | 负责开源多个教程，参与：happy-llm，中小学生AI通识课，open1+x来源文档，能够对教材的语言格式做出完好的修改建议与优化 | 机器学习、深度学习、强化学习、cv、agent |
-| [张翔宇（xgdyp）](https://github.com/xgdyp) | 有丰富的ai infra建设、rag及agent本地化建设经验 | llm |
+| [张翔宇（xgdyp）](https://github.com/xgdyp) | Datawhale成员，有丰富的ai infra建设、rag及agent本地化建设经验 | llm |
 | [黎又榛（1iyouzhen）](https://github.com/1iyouzhen) | 我想着可以借助这个机会学习更多知识的同时也可以尽我所能可以给教程提出一些优化建议 | 深度学习、LLM |
 
 
