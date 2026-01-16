@@ -37,7 +37,7 @@
 
 ## 内测组成员名单（排名不分先后）
 |  姓名（GitHub用户名）| 简介 | 擅长的领域 |
-|  ---------  | ---------------------------  | ---------  |
+|  ------------------  | ------------------------------------------------------  | --------- |
 | [牧小熊（muxiaoxiong）](https://github.com/muxiaoxiong) | Datawhale成员，AI算法工程师，Datawhale成员，阿里天池/科大讯飞竞赛平台特邀行业竞赛嘉宾 | 机器学习、深度学习、LLM、向量数据库、agent |
 | [王熠明（bald0wang）](https://github.com/bald0wang) | Datawhale成员，四大营教程输出数量第一 | LLM应用开发、Agent应用开发 |
 | [邹雨衡（logan-zou）](https://github.com/logan-zou) | Datawhale 成员，happy-llm、llm-cookbook 等 LLM 开源项目发起人、负责人，负责项目获 github star 7w+，现任某大厂 AI 工程师 | LLM、NLP |
