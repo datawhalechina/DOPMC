@@ -57,5 +57,9 @@
 | [蔡鋆捷（xinala-781）](https://github.com/xinala-781) | 负责开源多个教程，参与：happy-llm，中小学生AI通识课，open1+x来源文档，能够对教材的语言格式做出完好的修改建议与优化 | 机器学习、深度学习、强化学习、cv、agent |
 | [张翔宇（xgdyp）](https://github.com/xgdyp) | Datawhale成员，有丰富的ai infra建设、rag及agent本地化建设经验 | llm |
 | [黎又榛（1iyouzhen）](https://github.com/1iyouzhen) | 我想着可以借助这个机会学习更多知识的同时也可以尽我所能可以给教程提出一些优化建议 | 深度学习、LLM |
+| [蔡昌豪（VEGE-C）](https://github.com/VEGE-C) | 计算机科学与技术在校生，综合了解前端，后端，大模型等相关领域知识，知识涉及宽度较广，在校主要参与机器人和后端的相关开发工作，参与过大模型相关研究所实习（主要参与微调以及服务端测试），对新事物具有浓厚兴趣，从去年了解到Datawhale组织，参与过Happy-llm,Happy-agent等项目的学习 | 后端软件开发、机器视觉深度学习、机器人嵌入式等相关开发 |
+| [谢好冉（ilovexsir）](https://github.com/ilovexsir) | 参与过self-llm项目贡献，做过datawhale助教，了解学员在学习中有可能会遇到的问题。另外还做过华为云产品体验官，参与过多期产品体验任务，对测试产品和教程有一定的经验。 | LLM |
+| 静静 | 1. 12月份参考happy-llm 和 ai-hardware 项目打卡学习，均获得优秀学习者称号 2. 1月份继续参加base-llm项目， 认真学习中并逐步深入 3. 目前几个月在比较系统学习ai 系统相关内容，主要是并行计算、大模型训练和推理方向等，ai硬件方面，在端侧、边缘侧、云端均有涉及并不断深入学习 4. 技术栈比较全面。工作项目主要为感知算法，涉及信号处理算法和软硬件结合， 用过ros2操作系统、zynq等开发板，开发语言有c/c++, python，verilog等 5. 英语基础能力Ok | LLM、深度学习、ai硬件、机器人操作系统、传统信号处理算法、多种开发语言等 |
+| [傅谢懿（FuTseYi）](https://github.com/FuTseYi) | 香港科技大学（全额奖学金研究生）。热衷开源文化，活跃于社区教程贡献与专业助教工作。拥有跨领域经验，聚焦端侧 AI 与特种机器人领域的全栈开发，擅长在 NVIDIA、瑞芯微及 RDK 等边缘设备上进行复杂算法的工程化落地与云边端协同部署。同时密切关注 AIGC 前沿，善于利用 LLM 等生成式工具赋能工程实践与技术创新。 | DL、ML、CV、AIgo、LLM、Embedded、Edge AI、Frontend |
 
 
