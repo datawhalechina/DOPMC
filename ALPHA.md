@@ -65,6 +65,11 @@
 | [王子慕（wangzimu31-arch）](https://github.com/wangzimu31-arch) | Datawhale鲸英助教，南京圆梦公益理事会委员，非科班本科生 | 机器学习、LLM、TTS、ComfyUI生图 |
 | [左春生（LinChentang）](https://github.com/LinChentang) | Datawhale成员，llm-cookbook项目负责人| LLM、深度学习、单片机、具身智能 |
 | [潘钲日（KinZivy）](https://github.com/KinZivy) | 曾多次担任 Datawhale 助教，凭借扎实负责的工作表现获评优秀助教；积极参与 hello-agents 内测工作，针对教程章节完成积极反馈并提出一些合理的建议。同时，自身具备严谨的事务处理思路与专业的问题分析能力，善于切换不同视角代入理解内测教程内容，乐于主动发表真实且有价值的见解。| 机器学习、深度学习、蛋白质模型质量评估 |
+| [谭斐然(frtanxidian)](https://github.com/frtanxidian) | 1.我多次参加过组队学习，能够从学习者的角度来发现教程中可能存在的问题，以及提供一些更能够让学习者理解知识的方式 2.我多次参加过组队学习助教以及夏令营助教（运营助教、专业助教），熟悉组队学习流程，同时能够从助教的角度提出修改意见，减少助教和教程创作者的gap 3.我有过内测经验，例如Yolo-Master，我从内测开始提出了很多意见，一步一步成为该教程的贡献者 4.我现在在做的方向和语言模型微调（PEFT）相关，从专业角度也能够发现问题并提出修改意见 | 深度学习、联邦学习、LLM、CV、安全（对抗攻击等）、Python基本编程、前端 |
+| [胡博毓(HuBoyu021124)](https://github.com/HuBoyu021124) | Datawhale成员，对外经济贸易大学应用统计硕士研究生，有扎实的统计学，机器学习，深度学习基础，阅读过大量统计，机器学习，深度学习书籍与论文。  曾多次参与Datawhale组队学习活动，多次担任助教，理解Datawhale开源学习的理念，希望能为组织做更多。 | 机器学习、深度学习 |
+| [毛慧昀(galaAella)](https://github.com/galaAella) | Datawhale成员，编写过agent应用开发方面的教程，参加过组织多项项目的内测并提出建议，希望在参与项目内测提升自己的同时为项目的完善作出贡献。 | 机器学习、LLM、agent |
+| [李卓雅(ZhuoyaLi412)](https://github.com/ZhuoyaLi412) | 数据科学家，康奈尔数据科学硕士，熟悉Python、Java、C++等编程语言。深入研究过RAG与Agent相关框架，如LangChain、LangGraph，具备实际构建多轮对话与工具调用流程的经验。熟悉Databricks、Spark、MLflow等工具链，具备从模型开发到部署的完整工程能力。 | 机器学习、RAG、LLM |
+
 
 
 
