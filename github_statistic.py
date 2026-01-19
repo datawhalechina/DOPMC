@@ -1,4 +1,3 @@
-
 """ 
 Datawhale仓库统计分析
 使用说明请看下方__main__模块的注释
@@ -47,10 +46,20 @@ def get_repos(org):
             remaining = False
     return result
 
+def get_commit_obj(repo, commit_sha):
+    """ 读取commit的详细提交信息 """
+    url = f"https://api.github.com/repos/datawhalechina/{repo}/commits/{commit_sha}"
+    res = requests.get(url, headers=headers)
+    if res.status_code != 200:
+        raise ValueError(res.text)
+    res = res.json()
+    return res
+    
+
 if __name__ == "__main__":
     # 统计起始时间点
-    start_time = '2025-07-01T00:00:00Z'
-    end_time = '2025-10-01T00:00:00Z'
+    start_time = '2025-10-01T00:00:00Z'
+    end_time = '2026-01-01T00:00:00Z'
     
     ### 华丽的分界线，分界线以下的代码不用关注 ###
     ok_repo = set()
@@ -101,7 +110,22 @@ if __name__ == "__main__":
                     'commits': []
                 }
 
-            author_cnt[author_name]['commits'].append({'repo': repo, 'url': cmt['html_url']})
-        
+            cmt_obj = get_commit_obj(repo, sha)
+
+            author_cnt[author_name]['commits'].append({
+                                                        'repo': repo, 
+                                                        'url': cmt['html_url'], 
+                                                        'file_changes': [x['additions'] for x in cmt_obj['files']]
+                                                    })
+            
         for author_name in author_cnt:
-            print(f"{repo}\t{author_name}\t{len(author_cnt[author_name]['commits'])}", flush=True)
+            solid_cmt = 0
+            total_additions = 0
+            for cmt in author_cnt[author_name]['commits']:
+                file_changes = cmt['file_changes']
+                total_additions += sum(file_changes)
+                solid_file_changes = [x for x in file_changes if x >= 10]
+                if solid_file_changes:
+                    solid_cmt += 1
+
+            print(f"{repo}\t{author_name}\t{solid_cmt}\t{total_additions}", flush=True)
