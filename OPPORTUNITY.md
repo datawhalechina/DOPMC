@@ -10,6 +10,6 @@
 | GUI Agent | GUI Agent毋庸置疑是未来基座模型的标配能力，有关这方面的教程、项目、软件、工具等任意题材都欢迎 | [Sm1les](https://github.com/Sm1les) |
 | Agentic RL | Agentic RL是当前训练Agent最有潜力的范式，其基建（Infra）和训练方法都不成熟，正在飞速发展中，有关这方面的教程、项目、软件、工具等任意题材都欢迎 | [Sm1les](https://github.com/Sm1les) |
 | 端侧AI | 部署在云端的大模型现在已进入各行各业，但是部署在个人终端设备上的小模型虽然还没普及，但是已经有明显的进步，而且也是未来的必然趋势，有关这方面的教程、项目、软件、工具等任意题材都欢迎 | [KMnO4-zx](https://github.com/KMnO4-zx)、[Sm1les](https://github.com/Sm1les) |
-| 具身智能 | 目前社区仅有一门具身智能的教程[every-embodied](https://github.com/datawhalechina/every-embodied)，欢迎立项更多此类教程| 李永昌 |
+| 具身智能 | 目前社区仅有一门具身智能的教程[every-embodied](https://github.com/datawhalechina/every-embodied)，欢迎立项更多此类教程| 陆张驰 |
 | PocketFlow | [PocketFlow](https://github.com/The-Pocket/PocketFlow) 是一个高质量的LLM框架，值得深入学习，有关它的任意题材都欢迎 | [KMnO4-zx](https://github.com/KMnO4-zx) |
 | 大模型算法工程师的LeetCode | 为了在面试时快速评估一个大模型算法工程师or实习生的水平，急需一个类似LeetCode的一个Benchmark | [Sm1les](https://github.com/Sm1les) |
