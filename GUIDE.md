@@ -8,7 +8,7 @@
 该阶段用于进行组建团队、进度规划、调研分析等准备工作，准确完毕后便可进入到立项阶段。在此阶段，项目负责人需要确定课题，课题类型分为以下几种：
 1. 自拟课题：Datawhale是一个自由开放的社区，不对课题做任何强制要求，如果对自拟课题需要额外征询专业人士建议的可联系[保姆团队](./OP.md)辅助；
 2. 公共课题：我们鼓励同题材从不同角度创作，社区已有的开源项目为公共课题，任何人均可以再次立项同类课题，只需要注意切入角度保持不同即可；
-3. 机遇清单：我们提供<a target="_blank" href="https://github.com/datawhalechina/DOPMC/blob/main/OPPORTUNITY.md">《Datawhale开源机遇清单》</a>，里面列有社区规划待建设的课题；
+3. 机遇清单：我们提供<a target="_blank" href="https://github.com/datawhalechina/DOPMC/blob/main/OPPORTUNITY.md">《Datawhale开源机遇清单》</a>，里面列有社区规划待建设的课题供贡献者们挑选；
 
 确定课题后，项目负责人可联系[保姆团队](./OP.md)辅助其在Datawhale社群招募合作者，项目负责人不可私自在Datawhale社群中发布招募信息。
 
