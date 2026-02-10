@@ -9,6 +9,7 @@
 | 人工智能快速入门 | 当前LLM时代，机器学习和深度学习的学习时间可以大幅压缩，仅仅作为铺垫内容学习即可，因此需要一套将机器学习、深度学习、LLM给串起来的快速入门教程，其中需要对机器学习和深度学习进行高度压缩以节省学习时间 | [Sm1les](https://github.com/Sm1les) |
 | GUI Agent | GUI Agent毋庸置疑是未来基座模型的标配能力，有关这方面的教程、项目、软件、工具等任意题材都欢迎 | [Sm1les](https://github.com/Sm1les) |
 | Agentic RL | Agentic RL是当前训练Agent最有潜力的范式，其基建（Infra）和训练方法都不成熟，正在飞速发展中，有关这方面的教程、项目、软件、工具等任意题材都欢迎 | [Sm1les](https://github.com/Sm1les) |
+| 上下文工程（Context Engineering） | 随着基座模型能力的提升，很多复杂任务无需通过SFT，只需开发Agent就可以实现，而复杂的Agent的搭建引申出了一个工程问题，即上下文工程，欢迎立项跟上下文工程相关性的各类教程 | [Sm1les](https://github.com/Sm1les) |
 | 端侧AI | 部署在云端的大模型现在已进入各行各业，但是部署在个人终端设备上的小模型虽然还没普及，但是已经有明显的进步，而且也是未来的必然趋势，有关这方面的教程、项目、软件、工具等任意题材都欢迎 | [KMnO4-zx](https://github.com/KMnO4-zx)、[Sm1les](https://github.com/Sm1les) |
 | 具身智能 | 目前社区仅有一门具身智能的教程[every-embodied](https://github.com/datawhalechina/every-embodied)，欢迎立项更多此类教程| 陆张驰 |
 | PocketFlow | [PocketFlow](https://github.com/The-Pocket/PocketFlow) 是一个高质量的LLM框架，值得深入学习，有关它的任意题材都欢迎 | [KMnO4-zx](https://github.com/KMnO4-zx) |
