@@ -1,4 +1,4 @@
-# Datawhale开源项目指南
+# Datawhale开源指南
 本指南由 [Datawhale开源项目管理委员会（Datawhale Open-source Project Management Committee，简称DOPMC）](https://github.com/datawhalechina/DOPMC)制定并发行，其用于指导如何在Datawhale社区从零开始发起开源项目直至项目毕业。
 
 ## 项目周期
